@@ -1,5 +1,4 @@
 # Netflix-EDA
-# Netflix Content Strategy Analysis
 
 ## Overview
 
